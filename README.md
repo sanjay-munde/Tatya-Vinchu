@@ -19,6 +19,8 @@ Tatya Vinchu, a beloved yet spooky character from Indian folklore, finds a new d
 2. **Customization**: Customize the dialog's content and styles according to your project's needs. Get creative and make it your own!
 3. **Implementation**: Integrate the JavaScript functionality with your application logic, if required, to enhance user interactions further.
 
+## LICENSE
+This project is licensed under the [LICENSE](https://github.com/sanjay-munde/Tatya-Vinchu/edit/main/LICENSE).
 
 ## 🔪 ओम भट्ट स्वाहा..!
 
