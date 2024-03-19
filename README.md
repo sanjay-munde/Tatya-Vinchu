@@ -20,7 +20,7 @@ Tatya Vinchu, a beloved yet spooky character from Indian folklore, finds a new d
 3. **Implementation**: Integrate the JavaScript functionality with your application logic, if required, to enhance user interactions further.
 
 
-## 🔪 ओम भट स्वाहा...!
+## 🔪 ओम भट्ट स्वाहा..!
 
 
 
